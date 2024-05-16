@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Hans Mertens",
     "label": "NRT Trainee",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "email": "hansm@hawaii.edu",
+    "phone": "808-979-6439",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am an NRT DESCARTS trainee studying for a MS in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am an NRT DESCARTS trainee studying for a PhD in Mechanical Engineering at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
@@ -16,11 +16,10 @@
     ]
   },
   "interests": [
-    { "name": "Neuromorphic Analytics" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Machine Learning" },
+    { "name": "System Identification" },
+    { "name": "Control" },
+    { "name": "Robotics" }
   ],
   "skills": [
     {
